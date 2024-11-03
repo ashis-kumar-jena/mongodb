@@ -1,0 +1,17 @@
+{
+  "name": "mongodb_aws",
+  "version": "1.0.0",
+  "description": "A project to practice MongoDB with AWS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mongodb": "^4.0.7",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
